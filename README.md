@@ -1,6 +1,8 @@
 # Object Zoom and Move Functionality
 This project implements functionality to zoom in/out and move an object within a window using sliders. The sliders allow users to change the object's size and position both horizontally (X-axis) and vertically (Y-axis).
-**Live Demo**: ttps://object-zoom-and-move-functionality.netlify.app/
+
+### 
+**Live Demo**: https://object-zoom-and-move-functionality.netlify.app/
 
 ## Zoom
 * The object expands or shrinks according to the size slider.
